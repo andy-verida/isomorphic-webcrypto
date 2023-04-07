@@ -68,10 +68,5 @@
     "webcrypto-test-suite": "^0.4.0",
     "webpack": "^4.42.0"
   },
-  "optionalDependencies": {
-    "react-native-securerandom": "^0.1.1",
-    "expo-random": "*",
-    "@unimodules/core": "*",
-    "@unimodules/react-native-adapter": "*"
-  }
+  "optionalDependencies": {}
 }
